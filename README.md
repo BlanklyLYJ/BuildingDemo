@@ -10,7 +10,12 @@
 
 -[建筑系统框架概况](https://www.bilibili.com/video/BV1dv4y1o7PG/?share_source=copy_web&vd_source=c8fd8a987dd50aa4d450e85a9cecc98e)
 
+操作：
+    **数字键1 2 3 分别是建造不同建筑，其中1 2 有预建造逻辑**
+    **鼠标左键为建造，右键为删除**
+
 demo版本
+
 
     1.支持粗糙的网格
 
